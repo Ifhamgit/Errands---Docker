@@ -58,3 +58,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
+### Backend
+Mongodb has been used. Session management is yet to be implemented and role management for now is hardcoded. OAuth will also be implemented in this section. 
+
